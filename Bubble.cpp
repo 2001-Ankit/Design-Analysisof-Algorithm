@@ -1,4 +1,4 @@
-(3) Bubble Sort
+//(3) Bubble Sort
 // C++ program for implementation of Bubble sort
 #include <bits/stdc++.h>
 using namespace std;
