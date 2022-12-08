@@ -1,4 +1,4 @@
-(1) Fibonacci Number
+//(1) Fibonacci Number
 #include<bits/stdc++.h>
 using namespace std;
 int fibo(int n)

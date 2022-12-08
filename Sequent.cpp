@@ -1,4 +1,4 @@
-(2) Sequential/Linear Search
+//(2) Sequential/Linear Search
 // C++ code to linearly search x in arr[]. If x
 // is present then return its location, otherwise
 // return -1
